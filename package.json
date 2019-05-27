@@ -1,0 +1,18 @@
+{
+  "name": "noeslint",
+  "version": "1.0.6",
+  "description": "ESLint文件批量禁止工具",
+  "main": "index.js",
+  "bin": {
+    "noESLint": "./src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaosais",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "node-emoji": "^1.10.0"
+  }
+}
