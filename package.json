@@ -1,6 +1,6 @@
 {
   "name": "noeslint",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "ESLint文件批量禁止工具",
   "main": "index.js",
   "bin": {

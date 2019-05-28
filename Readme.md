@@ -31,7 +31,7 @@ Jenkins配置文件突然增加了ESLint校检，以前的代码质量比较差�
 #### 安装
 
 ```
-    npm install noESLint -g
+    npm i noeslint -g
 ```
 
 #### 使用
